@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694554413162",
+    "project_id": "asm-api-39b65",
+    "storage_bucket": "asm-api-39b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694554413162:android:ff5caf9cbb6b406b892213",
+        "android_client_info": {
+          "package_name": "com.example.asm_trungdtdph36621"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiswKPndSDVADCNVEHzAevgYgIGbA2MMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
